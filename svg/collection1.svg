@@ -15,7 +15,10 @@
    id="svg7686"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="collection1.svg">
+   sodipodi:docname="collection1.svg"
+   inkscape:export-filename="/home/cedric/inside/github/stereogram/collection1.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs7688">
     <clipPath
@@ -48,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="399.90686"
-     inkscape:cy="766.96668"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="304.31517"
+     inkscape:cy="582.97108"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
